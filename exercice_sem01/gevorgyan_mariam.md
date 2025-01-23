@@ -30,7 +30,6 @@
 </head>
 <body>
     <h1>Mariam Gevorgyan</h1>
-    <hr>
     <h2>Intérêts dans le multimédia</h2>
     <p>J'aime particulièrement le monde digital, le design et son interface utilisateurs. J'aimerais devenir designer graphique plus tard.</p>
 </body>
