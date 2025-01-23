@@ -7,11 +7,6 @@
 <body>
     <h1>Mariam Gevorgyan</h1>
     <img src= "https://th.bing.com/th/id/OIP.7vcu2D3ZrgcvU5LVfzqRUQHaEK?w=306&h=180&c=7&r=0&o=5&pid=1.7" class= "mon-image">
-    <style>
-    .mon-image {
-      height: 50px;
-      }
-    </style>
     <h2>Intérêts dans le multimédia</h2>
     <p>J'aime particulièrement le monde digital, le design et son interface utilisateurs. J'aimerais devenir designer graphique plus tard.</p>
 </body>
