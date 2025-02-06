@@ -4,7 +4,7 @@
 
 ### Nom de l'exposition ou de l'événement 
 #### LE SPECTACLE 
-<img src="le_spectacle.webp" width="200"/>
+<img src="./medias/le_spectacle.webp" width="200"/>
 
 ### Lieu de mise en exposition    Vous devant l'entrée de l'édifice
 
