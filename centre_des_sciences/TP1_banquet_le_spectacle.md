@@ -3,7 +3,7 @@
 
 
 ###Nom de l'exposition ou de l'événement 
-![photo](medias/le_spectacle)
+![photo](medias/le_spectacle.webp)
 
 ### Lieu de mise en exposition    Vous devant l'entrée de l'édifice
 
