@@ -2,7 +2,7 @@
 ## (Répertoire GitHub) 15% (REMISE semaine 5)
 
 
-###Nom de l'exposition ou de l'événement 
+### Nom de l'exposition ou de l'événement 
 ![photo](medias/le_spectacle.webp)
 
 ### Lieu de mise en exposition    Vous devant l'entrée de l'édifice
