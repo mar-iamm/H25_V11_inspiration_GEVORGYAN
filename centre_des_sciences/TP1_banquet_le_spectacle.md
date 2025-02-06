@@ -4,7 +4,7 @@
 
 ### Nom de l'exposition ou de l'événement 
 #### LE SPECTACLE 
-![photo](./medias/le_spectacle.webp.=250px)
+![photo](./medias/le_spectacle.webp.=1920x1080)
 
 ### Lieu de mise en exposition    Vous devant l'entrée de l'édifice
 
