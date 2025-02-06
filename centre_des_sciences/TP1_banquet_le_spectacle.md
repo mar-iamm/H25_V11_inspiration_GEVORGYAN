@@ -15,7 +15,7 @@
 #### PERMANANTE
 
 ### DATE DE VOTRE VISITE
-####30 JANVIER 2025
+#### 30 JANVIER 2025
 
 ### TITRE DU DISPOSITIF CHOISI (vue d'ensemble du dispositif)
 <img src="./medias/vue_ensemble.webp" width="500" height="600"/>
