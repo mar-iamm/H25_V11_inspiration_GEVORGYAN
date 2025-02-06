@@ -9,7 +9,7 @@
 
 ### Lieu de mise en exposition 
 
-<img src="./medias/moi.webp" width="500" height="500"/>
+<img src="./medias/moi.webp" width="500" height="700"/>
 
 ### Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure) 
 
