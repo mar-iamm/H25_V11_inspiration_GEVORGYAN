@@ -4,12 +4,12 @@
 
 ### NOM DE L'EXPOSITION OU DE L'ÉVÉNEMENT
 #### LE SPECTACLE 
-<img src="./medias/le_spectacle.webp" width="500" height="600"/>
+<img src="./medias/le_spectacle.webp" width="600" height="600"/>
 
 ### LIEU DE MISE EN EXPOSITION
 
 #### MA GROSSE TÊTE
-<img src="./medias/moi.webp" width="500" height="600"/>
+<img src="./medias/moi.webp" width="600" height="600"/>
 
 ### TYPE D'EXPOSITION (TEMPORAIRE, PERMANANTE, ITINÉRANTE, INTÉRIEURE, EXTÉRIEURE)
 #### PERMANANTE
@@ -18,7 +18,7 @@
 ####30 JANVIER 2025
 
 ### TITRE DU DISPOSITIF CHOISI (vue d'ensemble du dispositif)
-<img src="./medias/vue_ensemble.webp" width="500" height="600"/>
+<img src="./medias/vue_ensemble.webp" width="600" height="600"/>
 
 ### NOM DE LA FIRME (texte de présentation ou explicatif)
 
