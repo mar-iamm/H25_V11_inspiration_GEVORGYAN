@@ -2,36 +2,37 @@
 ## (Répertoire GitHub) 15% (REMISE semaine 5)
 
 
-### Nom de l'exposition ou de l'événement 
+### NOM DE L'EXPOSITION OU DE L'ÉVÉNEMENT
 #### LE SPECTACLE 
 
 <img src="./medias/le_spectacle.webp" width="500" height="600"/>
 
-### Lieu de mise en exposition 
+### LIEU DE MISE EN EXPOSITION
 
 #### MA GROSSE TÊTE
 <img src="./medias/moi.webp" width="500" height="600"/>
 
-### Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure) 
+### TYPE D'EXPOSITION (TEMPORAIRE, PERMANANTE, ITINÉRANTE, INTÉRIEURE, EXTÉRIEURE)
 
-### Date de votre visite
+### DATE DE VOTRE VISITE
 
-### Titre du dispositif choisi Vue d'ensemble du dispositif
+### TITRE DU DISPOSITIF CHOISI (vue d'ensemble du dispositif)
 
-### Nom de la firme   texte de présentation ou explicatif
+### NOM DE LA FIRME (texte de présentation ou explicatif)
 
-### Année de réalisation
+### ANNÉE DE RÉALISATION
 
-### Description de l'oeuvre   texte + diverses vues 
+### DESCRIPTION DE L'OEUVRE (texte + diverses vues)
 
-### Type d'installation (contemplative, immersive, interactive) Vue *descriptive*
+### TYPE D'INSTALLATION (COMTEMPLATIVE, IMMERSIVE, INTERACTIVE) (description+photo)
 
-### Mise en espace  Vue d'ensemble de la pièce + Faire un croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension)
+### MISE EN ESPACE (vue d'ensemble de la piece + faire un croquis de la mise en page)
 
-### Composantes et techniques Chacune des parties composantes du dispositif 
+### COMPOSANTES ET TECHNIQUES (chacune des parties composantes du dispositif)
 
-### Éléments nécessaires à la mise en exposition   Chacun des éléments que le musée a mis en place pour que le dispositif soit présenté (bancs, cache-fil, crochets, sacs de sable, câbles, éclairage, herses, rideaux ou cloisons...)
+### ÉLÉMENTS NÉCESSAIRES À LA MISE EN EXPOSITION (chacun des elements que le musée a mis en place pour que le dispositif soit présenté (bancs, cache-fil, crochets, sac de sable, cables, eclairage, herses, rideaux ou cloisons)
 
-### Expérience vécue    Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter l'interactivité avec celle-ci 
+### EXPÉRIENCE VÉCUE (posture du visiteur ou gestes de l'interacteur, possibilité d'intégrer de courts vidéos pour documenter l'interactivité avec celle-ci)
 
-### Ce qui vous a plu, vous a donné des idées et pourquoi - justifications   Éléments pertinents
+### CE QUI VOUS A PLU, VOUS A DONNÉ DES IDÉES ET POURQUOIS (justifications, éléments pertinents) 
+
