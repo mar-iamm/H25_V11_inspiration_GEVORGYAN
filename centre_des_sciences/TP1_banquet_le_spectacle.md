@@ -5,11 +5,11 @@
 ### Nom de l'exposition ou de l'événement 
 #### LE SPECTACLE 
 
-
 <img src="./medias/le_spectacle.webp" width="500" height="500"/>
 
+### Lieu de mise en exposition 
 
-### Lieu de mise en exposition    Vous devant l'entrée de l'édifice
+<img src="./medias/moi.webp" width="500" height="500"/>
 
 ### Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure) 
 
