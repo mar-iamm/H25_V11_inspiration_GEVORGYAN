@@ -5,7 +5,7 @@
 ### Nom de l'exposition ou de l'événement 
 #### LE SPECTACLE 
 
-<img src="./medias/le_spectacle.webp" width="500" height="500"/>
+<img src="./medias/le_spectacle.webp" width="500" height="600"/>
 
 ### Lieu de mise en exposition 
 
