@@ -7,8 +7,9 @@
 
 <img src="./medias/le_spectacle.webp" width="500" height="600"/>
 
-### Lieu de mise en exposition 
+#### Lieu de mise en exposition 
 
+### MA GROSSE TÊTE
 <img src="./medias/moi.webp" width="500" height="600"/>
 
 ### Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure) 
