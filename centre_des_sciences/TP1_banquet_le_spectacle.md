@@ -2,7 +2,7 @@
 ## (Répertoire GitHub) 15% (REMISE semaine 5)
 |:pencil2: À noter  | :camera: À photographier | 
 | ---     | ---             | 
-| Nom de l'exposition ou de l'événement|Affiche de l'exposition|
+| Nom de l'exposition ou de l'événement|![photo](medias/le_spectacle)|
 | Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    | N/A | 
 | Date de votre visite    | N/A           | 
