@@ -23,18 +23,20 @@
 <img src="./medias/ecran.jpg" width= 440px height= 620px/> <img src="./medias/ecran_02.jpg" width= 440px height= 620px/> <img src="./medias/table.jpg" width= 440px height= 620px/> <img src="./medias/table_02.jpg" width= 440px height= 620px/> <img src="./medias/vue_ensemble.jpg" width= 440px height= 620px/> </p>
 
 
-#### Cet exposition est une expérience immersive qui éveille les cinq sens pour offrir une rencontre unique entre l'art et les sensations humaines. Chaque espace de cette exposition vous invite à explorer la vue, l’ouïe, l’odorat, le goût et le toucher, tout en vous immergeant dans des environnements sensoriels captivants et interactifs. Elle respecte églament un menu spécifique et une inspiration, avec image à l'appui !
+#### Le Spectacle est une exposition multimédia immersive où les visiteurs s'installent autour d'une table centrale pour un voyage sensoriel inédit. Chaque plat et chaque instant deviennent une œuvre d’art éveillant la vue, l’ouïe, l’odorat, le goût et le toucher. Au-delà d’un simple repas, cette expérience est une fusion totale des sens. Elle respecte églament un menu spécifique et une inspiration, avec image à l'appui !
 
 
 <p align="center" width="100%">
 <img src="./medias/menu.jpg" width= 440px height= 620px/> <img src="./medias/menu_02.jpg" width= 440px height= 620px/> <img src="./medias/inspiration.jpg" width= 440px height= 620px/>
 </p>
 
-### DESCRIPTION DE L'OEUVRE (texte + diverses vues)
 
-### TYPE D'INSTALLATION (COMTEMPLATIVE, IMMERSIVE, INTERACTIVE) (description+photo)
+####  Voici également un croquis de l'exposition, afin que vous puissez mieux comprendre l'environnement.
 
-### MISE EN ESPACE (vue d'ensemble de la piece + faire un croquis de la mise en page)
+<p align="center" width="100%">
+<img src="./medias/croquis.jpg" width= 440px height= 620px/>
+</p>
+
 
 ### COMPOSANTES ET TECHNIQUES (chacune des parties composantes du dispositif)
 
