@@ -22,7 +22,9 @@
 <p align="center" width="100%">
 <img src="./medias/ecran.jpg" width= 440px height= 620px/> <img src="./medias/ecran_02.jpg" width= 440px height= 620px/> <img src="./medias/table.jpg" width= 440px height= 620px/> <img src="./medias/table_02.jpg" width= 440px height= 620px/> </p>
 
-#### Cet exposition est une expérience immersive qui éveille les cinq sens pour offrir une rencontre unique entre l'art et les sensations humaines. Chaque espace de cette exposition vous invite à explorer la vue, #### l’ouïe, l’odorat, le goût et le toucher, tout en vous immergeant dans des environnements sensoriels captivants et interactifs. Elle respecte églament un menu spécifique et une inspiration, avec image à l'appui !
+
+#### Cet exposition est une expérience immersive qui éveille les cinq sens pour offrir une rencontre unique entre l'art et les sensations humaines. Chaque espace de cette exposition vous invite à explorer la vue, l’ouïe, l’odorat, le goût et le toucher, tout en vous immergeant dans des environnements sensoriels captivants et interactifs. Elle respecte églament un menu spécifique et une inspiration, avec image à l'appui !
+
 
 <p align="center" width="100%">
 <img src="./medias/menu.jpg" width= 440px height= 620px/> <img src="./medias/menu_02.jpg" width= 440px height= 620px/> <img src="./medias/inspiration.jpg" width= 440px height= 620px/>
