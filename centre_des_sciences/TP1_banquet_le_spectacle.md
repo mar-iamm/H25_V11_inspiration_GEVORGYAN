@@ -22,7 +22,7 @@
 <p align="center" width="100%">
 <img src="./medias/ecran.jpg" width= 440px height= 620px/> <img src="./medias/ecran_02.jpg" width= 440px height= 620px/> <img src="./medias/table.jpg" width= 440px height= 620px/> <img src="./medias/table_02.jpg" width= 440px height= 620px/> <img src="./medias/vue_ensemble.jpg" width= 440px height= 620px/> </p>
 
-
+***
 #### Le Spectacle est une exposition multimédia immersive où les visiteurs s'installent autour d'une table centrale pour un voyage sensoriel inédit. Chaque plat et chaque instant deviennent une œuvre d’art éveillant la vue, l’ouïe, l’odorat, le goût et le toucher. Au-delà d’un simple repas, cette expérience est une fusion totale des sens. Elle respecte églament un menu spécifique et une inspiration, avec image à l'appui !
 
 
@@ -37,6 +37,7 @@
 <img src="./medias/croquis.png"/>
 </p>
 
+***
 ### Les Coulisses Techniques "Le Spectacle" 
 #### L’exposition combine plusieurs technologies immersives pour éveiller les sens autour d'une table centrale. Des projecteurs diffusent des images et des animations sur la table et les murs, transformant chaque plat en œuvre visuelle. Un système audio disposé sur les tables enveloppe les invités, synchronisant sons et expérience visuelle pour une immersion totale. Un son de fond calme, créant une ambiance apaisante, accompagne chaque moment, renforçant l’atmosphère immersive de l’exposition.
 
