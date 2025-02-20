@@ -9,7 +9,7 @@ Lors de ma visite le 30 janvier 2025, j'ai pu découvrire toute la richesse et l
 
 Un rendez-vous incontournable pour tous les amateurs d’art contemporain, où l’émotion est au cœur de la découverte.
  
-<img src="./medias/le_spectacle.jpg" width= 440px height= 620px/>
+<img src="./medias/le_spectacle.jpg" width= 440px height= 620px/> <img src="./ecran.jpg" width= 440px height= 620px/> <img src="./medias/ecran_02.jpg" width= 440px height= 620px/> <img src="./medias/le_spectacle.jpg" width= 440px height= 620px/> <img src="./medias/table.jpg" width= 440px height= 620px/> <img src="./medias/table_02.jpg" width= 440px height= 620px/>
 
 <img src="./medias/moi.pdf"/>
 
