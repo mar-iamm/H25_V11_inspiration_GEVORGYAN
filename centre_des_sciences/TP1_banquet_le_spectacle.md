@@ -48,7 +48,7 @@
 
 #### Des diffuseurs d’arômes libèrent des parfums en fonction des plats, enrichissant l’expérience sensorielle. Chaque senteur, soigneusement sélectionnée, complète les saveurs et peut évoquer des souvenirs ou des émotions spécifiques. Cette harmonie entre les parfums et les mets transforme chaque dégustation visuelle en un moment unique et immersif!
 
-#### Ces éléments essentiels ont donc été mis en place afin d’assurer une immersion totale par Le Centre des Sciences, transformant chaque plat en une œuvre d’art vivante en assurant une excellente éxperience pour ses invités.
+#### Ces éléments essentiels ont donc été mis en place afin d’assurer une immersion totale par les créateurs, transformant chaque plat en une œuvre d’art vivante en assurant une excellente éxperience pour ses invités.
 ***
 
 <p align="center" width="100%">
