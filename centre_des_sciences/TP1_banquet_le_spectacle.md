@@ -6,6 +6,8 @@
 <img src="./medias/moi.jpg" width= 440px height= 620px/> <img src="./medias/le_banquet.jpg" width= 440px height= 620px/> 
 </p>
 
+*Moi, à l'entrée du Banquet.*
+
 ***
 ### Le Spectacle 
 
@@ -55,7 +57,6 @@
 <img src="./medias/appareil.jpg" width= 440px height= 620px/> <img src="./medias/appareil_02.jpg" width= 440px height= 620px/> <img src="./medias/audio.jpg" width= 440px height= 620px/>
 </p>
 
-*Voici les appareils projecteurs et l'appareil auditif*
 
 #### Sans plus attendre, voici une vidéo qui à été prise par ma personne de l'exposition en question.
 https://youtube.com/shorts/ztHhXTI0giA?feature=share
