@@ -1,5 +1,11 @@
 # TRAVAIL 1: VISITE ET EXPÉRIENCE D'UNE EXPOSITION AU CENTRE DES SCIENCES DE MONTRÉAL
 
+
+****
+<p align="center" width="100%">
+<img src="./medias/moi.jpg" width= 440px height= 620px/>
+</p>
+
 ### Le Spectacle – Une immersion artistique permanente
 ****
 <p align="center" width="100%">
@@ -14,13 +20,6 @@ Un rendez-vous incontournable pour tous les amateurs d’art contemporain, où l
 ****
 <p align="center" width="100%">
 <img src="./medias/ecran.jpg" width= 440px height= 620px/> <img src="./medias/ecran_02.jpg" width= 440px height= 620px/> <img src="./medias/table.jpg" width= 440px height= 620px/> <img src="./medias/table_02.jpg" width= 440px height= 620px/> </p>
-
-Voici également ma personne devant l'entrée du banquet !
-****
-<p align="center" width="100%">
-<img src="./medias/moi.jpg" width= 440px height= 620px/>
-</p>
-
 
 ### NOM DE LA FIRME (texte de présentation ou explicatif)
 <img src="./medias/menu.pdf"/> <img src="./medias/menu_02.pdf"/> <img src="./medias/inspiration.webp"/>
