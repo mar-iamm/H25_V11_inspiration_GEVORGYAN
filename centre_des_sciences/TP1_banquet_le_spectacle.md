@@ -3,7 +3,7 @@
 
 
 ### Le Spectacle – Une immersion artistique permanente
-**Align center:**
+****
 <p align="center" width="100%">
   <img src="./medias/le_spectacle.jpg" width= 440px height= 620px/>
 </p>
