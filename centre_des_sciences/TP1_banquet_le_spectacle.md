@@ -1,7 +1,5 @@
 # TRAVAIL 1: VISITE ET EXPÉRIENCE D'UNE EXPOSITION AU CENTRE DES SCIENCES DE MONTRÉAL
 
-
-
 ### Le Spectacle – Une immersion artistique permanente
 ****
 <p align="center" width="100%">
@@ -17,15 +15,15 @@ Un rendez-vous incontournable pour tous les amateurs d’art contemporain, où l
 <p align="center" width="100%">
 <img src="./medias/ecran.jpg" width= 440px height= 620px/> <img src="./medias/ecran_02.jpg" width= 440px height= 620px/> <img src="./medias/table.jpg" width= 440px height= 620px/> <img src="./medias/table_02.jpg" width= 440px height= 620px/> </p>
 
-<img src="./medias/moi.pdf"/>
+Voici également ma personne devant l'entrée du banquet !
+****
+<p align="center" width="100%">
+<img src="./medias/moi.jpg" width= 440px height= 620px/>
+</p>
 
-### TITRE DU DISPOSITIF CHOISI (vue d'ensemble du dispositif)
-<img src="./medias/vue_ensemble.pdf" 
 
 ### NOM DE LA FIRME (texte de présentation ou explicatif)
 <img src="./medias/menu.pdf"/> <img src="./medias/menu_02.pdf"/> <img src="./medias/inspiration.webp"/>
-### ANNÉE DE RÉALISATION
-#### 2021
 
 ### DESCRIPTION DE L'OEUVRE (texte + diverses vues)
 
