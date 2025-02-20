@@ -54,7 +54,7 @@
 <p align="center" width="100%">
 <img src="./medias/appareil.jpg" width= 440px height= 620px/> <img src="./medias/appareil_02.jpg" width= 440px height= 620px/> <img src="./medias/audio.jpg" width= 440px height= 620px/>
 </p>
-***
+
 
 #### Sans plus attendre, voici une vidéo qui à été prise par ma personne de l'exposition en questions.
 https://youtube.com/shorts/ztHhXTI0giA?feature=share
