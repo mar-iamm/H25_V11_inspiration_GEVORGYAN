@@ -6,7 +6,7 @@
 <img src="./medias/moi.jpg" width= 440px height= 620px/>
 </p>
 
-<p style="text-align: center;">
+<p style="text-align: center">
 ### Le Spectacle – Une immersion artistique permanente
 </p>
 ****
