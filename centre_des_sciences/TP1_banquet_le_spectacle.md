@@ -37,8 +37,10 @@
 <img src="./medias/croquis.png"/>
 </p>
 
+### Les Coulisses Techniques "Le Spectacle" 
+#### L’exposition combine plusieurs technologies immersives pour éveiller les sens autour d'une table centrale. Des projecteurs diffusent des images et des animations sur la table et les murs, transformant chaque plat en œuvre visuelle. Un système audio disposé sur les tables enveloppe les invités, synchronisant sons et expérience visuelle pour une immersion totale. Un son de fond calme, créant une ambiance apaisante, accompagne chaque moment, renforçant l’atmosphère immersive de l’exposition.
 
-### COMPOSANTES ET TECHNIQUES (chacune des parties composantes du dispositif)
+#### Des diffuseurs d’arômes libèrent des parfums en fonction des plats, enrichissant l’expérience sensorielle. Chaque senteur, soigneusement sélectionnée, complète les saveurs et peut évoquer des souvenirs ou des émotions spécifiques. Cette harmonie entre les parfums et les mets transforme chaque dégustation visuelle en un moment unique et immersif!
 
 ### ÉLÉMENTS NÉCESSAIRES À LA MISE EN EXPOSITION (chacun des elements que le musée a mis en place pour que le dispositif soit présenté (bancs, cache-fil, crochets, sac de sable, cables, eclairage, herses, rideaux ou cloisons)
 
