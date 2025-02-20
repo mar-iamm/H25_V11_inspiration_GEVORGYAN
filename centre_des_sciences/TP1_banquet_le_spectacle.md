@@ -6,13 +6,15 @@
 <img src="./medias/moi.jpg" width= 440px height= 620px/>
 </p>
 
-### Le Spectacle – Une immersion artistique permanente
+### Le Spectacle 
 
 ****
 <p align="center" width="100%">
   <img src="./medias/le_spectacle.jpg" width= 440px height= 620px/>
 </p>
 
+***
+### Le Spectacle : Une immersion artistique permanente
 #### Depuis 2021, Le Spectacle est une exposition permanente qui invite les visiteurs à un voyage immersif à travers l’art et l’émotion. Présentée dans un espace intérieur soigneusement conçu, cette exposition célèbre la fusion des formes, des couleurs et des sons pour éveiller les sens et l’imaginaire.
 
 #### Lors de ma visite le 30 janvier 2025, j'ai pu découvrire toute la richesse et la profondeur de cette œuvre intemporelle. Chaque passage dans Le Spectacle est une nouvelle expérience, révélant les multiples facettes d’une créativité qui repousse sans cesse les limites artistiques.
