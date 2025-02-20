@@ -1,21 +1,17 @@
 # TRAVAIL 1: VISITE ET EXPÉRIENCE D'UNE EXPOSITION AU CENTRE DES SCIENCES DE MONTRÉAL
-## (Répertoire GitHub) 15% (REMISE semaine 5)
 
 
-### NOM DE L'EXPOSITION OU DE L'ÉVÉNEMENT
-#### LE SPECTACLE 
-<img src="./medias/le_spectacle.webp" width="500" height="600"/>
 
-### LIEU DE MISE EN EXPOSITION
+### Le Spectacle – Une immersion artistique permanente
+#### Depuis 2021, Le Spectacle est une exposition permanente qui invite les visiteurs à un voyage immersif à travers l’art et l’émotion. Présentée dans un espace intérieur soigneusement conçu, cette exposition célèbre la fusion des formes, des couleurs et des sons pour éveiller les sens et l’imaginaire.
 
-#### MA GROSSE TÊTE
-<img src="./medias/moi.webp" width="500" height="600"/>
+Lors de ma visite le 30 janvier 2025, j'ai pu découvrire toute la richesse et la profondeur de cette œuvre intemporelle. Chaque passage dans Le Spectacle est une nouvelle expérience, révélant les multiples facettes d’une créativité qui repousse sans cesse les limites artistiques.
 
-### TYPE D'EXPOSITION (TEMPORAIRE, PERMANANTE, ITINÉRANTE, INTÉRIEURE, EXTÉRIEURE)
-#### PERMANANTE
+Un rendez-vous incontournable pour tous les amateurs d’art contemporain, où l’émotion est au cœur de la découverte.
+ 
+<img src="./medias/le_spectacle.webp"/>
 
-### DATE DE VOTRE VISITE
-#### 30 JANVIER 2025
+<img src="./medias/moi.webp"/>
 
 ### TITRE DU DISPOSITIF CHOISI (vue d'ensemble du dispositif)
 <img src="./medias/vue_ensemble.webp" width="500" height="600"/>
