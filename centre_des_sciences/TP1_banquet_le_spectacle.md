@@ -9,15 +9,15 @@ Lors de ma visite le 30 janvier 2025, j'ai pu découvrire toute la richesse et l
 
 Un rendez-vous incontournable pour tous les amateurs d’art contemporain, où l’émotion est au cœur de la découverte.
  
-<img src="./medias/le_spectacle.webp"/>
+<img src="./medias/le_spectacle.pdf"/>
 
-<img src="./medias/moi.webp"/>
+<img src="./medias/moi.pdf"/>
 
 ### TITRE DU DISPOSITIF CHOISI (vue d'ensemble du dispositif)
-<img src="./medias/vue_ensemble.webp" width="500" height="600"/>
+<img src="./medias/vue_ensemble.pdf" 
 
 ### NOM DE LA FIRME (texte de présentation ou explicatif)
-<img src="./medias/menu.webp" width="500" height="600"/> <img src="./medias/menu_02.webp" width="500" height="600"/> <img src="./medias/inspiration.webp" width="500" height="600"/>
+<img src="./medias/menu.pdf"/> <img src="./medias/menu_02.pdf"/> <img src="./medias/inspiration.webp"/>
 ### ANNÉE DE RÉALISATION
 #### 2021
 
