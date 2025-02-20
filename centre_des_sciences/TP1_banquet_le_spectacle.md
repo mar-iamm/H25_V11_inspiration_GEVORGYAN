@@ -42,6 +42,12 @@
 
 #### Des diffuseurs d’arômes libèrent des parfums en fonction des plats, enrichissant l’expérience sensorielle. Chaque senteur, soigneusement sélectionnée, complète les saveurs et peut évoquer des souvenirs ou des émotions spécifiques. Cette harmonie entre les parfums et les mets transforme chaque dégustation visuelle en un moment unique et immersif!
 
+
+<p align="center" width="100%">
+<img src="./medias/appareil.jpg" width= 440px height= 620px/> <img src="./medias/appareil_02.jpg" width= 440px height= 620px/> <img src="./medias/audio.jpg" width= 440px height= 620px/>
+</p>
+
+
 ### ÉLÉMENTS NÉCESSAIRES À LA MISE EN EXPOSITION (chacun des elements que le musée a mis en place pour que le dispositif soit présenté (bancs, cache-fil, crochets, sac de sable, cables, eclairage, herses, rideaux ou cloisons)
 
 ### EXPÉRIENCE VÉCUE (posture du visiteur ou gestes de l'interacteur, possibilité d'intégrer de courts vidéos pour documenter l'interactivité avec celle-ci)
