@@ -13,8 +13,9 @@
 Lors de ma visite le 30 janvier 2025, j'ai pu découvrire toute la richesse et la profondeur de cette œuvre intemporelle. Chaque passage dans Le Spectacle est une nouvelle expérience, révélant les multiples facettes d’une créativité qui repousse sans cesse les limites artistiques.
 
 Un rendez-vous incontournable pour tous les amateurs d’art contemporain, où l’émotion est au cœur de la découverte.
- 
-<img src="./medias/ecran.jpg" width= 440px height= 620px/> <img src="./medias/ecran_02.jpg" width= 440px height= 620px/> <img src="./medias/table.jpg" width= 440px height= 620px/> <img src="./medias/table_02.jpg" width= 440px height= 620px/>
+****
+<p align="center" width="100%">
+<img src="./medias/ecran.jpg" width= 440px height= 620px/> <img src="./medias/ecran_02.jpg" width= 440px height= 620px/> <img src="./medias/table.jpg" width= 440px height= 620px/> <img src="./medias/table_02.jpg" width= 440px height= 620px/> </p>
 
 <img src="./medias/moi.pdf"/>
 
