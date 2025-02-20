@@ -34,7 +34,7 @@
 ####  Voici également un croquis de l'exposition, afin que vous puissez mieux comprendre l'environnement.
 
 <p align="center" width="100%">
-<img src="./medias/croquis.jpg" width= 440px height= 620px/>
+<img src="./medias/croquis.png"/>
 </p>
 
 
