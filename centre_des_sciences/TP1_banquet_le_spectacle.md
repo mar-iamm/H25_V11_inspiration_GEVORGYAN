@@ -27,14 +27,15 @@
 ***
 ### Le Spectacle : La Dégustation
 #### Le Spectacle est une exposition multimédia immersive où les visiteurs s'installent autour d'une table centrale pour un voyage sensoriel inédit. Chaque plat et chaque instant deviennent une œuvre d’art éveillant la vue, l’ouïe, l’odorat, le goût et le toucher. Au-delà d’un simple repas, cette expérience est une fusion totale des sens. Elle respecte églament un menu spécifique et une inspiration, avec image à l'appui !
-
+***
 
 <p align="center" width="100%">
 <img src="./medias/menu.jpg" width= 440px height= 620px/> <img src="./medias/menu_02.jpg" width= 440px height= 620px/> <img src="./medias/inspiration.jpg" width= 440px height= 620px/>
 </p>
 
-
+***
 ####  Voici également un croquis de l'exposition, afin que vous puissez mieux comprendre l'environnement.
+***
 
 <p align="center" width="100%">
 <img src="./medias/croquis.png"/>
