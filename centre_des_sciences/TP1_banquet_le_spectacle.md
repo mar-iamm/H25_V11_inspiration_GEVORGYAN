@@ -48,15 +48,19 @@
 
 #### Des diffuseurs d’arômes libèrent des parfums en fonction des plats, enrichissant l’expérience sensorielle. Chaque senteur, soigneusement sélectionnée, complète les saveurs et peut évoquer des souvenirs ou des émotions spécifiques. Cette harmonie entre les parfums et les mets transforme chaque dégustation visuelle en un moment unique et immersif!
 
+#### Ces éléments essentiels ont donc été mis en place afin d’assurer une immersion totale par Le Centre des Sciences, transformant chaque plat en une œuvre d’art vivante en assurant une excellente éxperience pour ses invités.
+***
 
 <p align="center" width="100%">
 <img src="./medias/appareil.jpg" width= 440px height= 620px/> <img src="./medias/appareil_02.jpg" width= 440px height= 620px/> <img src="./medias/audio.jpg" width= 440px height= 620px/>
 </p>
+***
 
+#### Sans plus attendre, voici une vidéo qui à été prise par ma personne de l'exposition en questions.
+https://youtube.com/shorts/ztHhXTI0giA?feature=share
+***
 
-### ÉLÉMENTS NÉCESSAIRES À LA MISE EN EXPOSITION (chacun des elements que le musée a mis en place pour que le dispositif soit présenté (bancs, cache-fil, crochets, sac de sable, cables, eclairage, herses, rideaux ou cloisons)
+### Le Spectacle : Conclusion 
 
-### EXPÉRIENCE VÉCUE (posture du visiteur ou gestes de l'interacteur, possibilité d'intégrer de courts vidéos pour documenter l'interactivité avec celle-ci)
-
-### CE QUI VOUS A PLU, VOUS A DONNÉ DES IDÉES ET POURQUOIS (justifications, éléments pertinents) 
+#### Ce qui m'a particulièrement plu dans l'exposition, ce sont les projections visuelles et l'utilisation de l'odorat. Les projections ont créé une ambiance immersive incroyable, transformant chaque plat en une œuvre d’art vivante. Ce qui m'a vraiment surpris, c'est l'intégration de l'odorat. Je ne m'attendais pas à ce que les parfums viennent enrichir l'expérience de cette manière. En particulier, l'odeur du homard, très prononcée, qui a renforcé le côté réaliste de l'expérience. Cette touche inattendue a vraiment renforcé l'immersion et a créé un lien plus profond avec les plats, ajoutant une touche unique que je n'avais pas anticipée. J'ai aussi beaucoup apprécié l'ensemble de l'expérience, notamment le son apaisant et les animations qui accompagnaient chaque moment. Le seul petit hic, c'est que les diffuseurs d'odeur ne fonctionnaient pas à chaque plat, et j'aurais aimé qu'ils soient actifs à chaque dégustation pour une immersion encore plus complète. 
 
