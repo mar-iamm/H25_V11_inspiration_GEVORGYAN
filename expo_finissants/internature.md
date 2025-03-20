@@ -20,4 +20,8 @@
 
 #### L'exposition utilise plusieurs technologies pour créer une expérience immersive et interactive. À l'extérieur, deux projecteurs, placés de chaque côté de la pièce, projettent des images de fleurs en mouvement sur la paroi du tunnel. À l'intérieur, des dispositifs audio plongent les visiteurs dans une ambiance sonore immersive. Au centre, la sphère interactive réagit aux mouvements des participants, déclenchant des effets visuels et sonores en temps réel, permettant une interaction fluide avec l'environnement.
 
-*Source: https://www.youtube.com/watch?v=pLxNPbXbVRE, https://tprangers.github.io/internature/#/*
+****
+
+#### Internature : Conclusion
+
+##### *Source: https://www.youtube.com/watch?v=pLxNPbXbVRE, https://tprangers.github.io/internature/#/*
