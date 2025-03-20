@@ -1,4 +1,9 @@
 # TRAVAIL 2: MON PROJET PRÉFÉRÉ
 ****
 ## Internature
+
+<p align="center" width="100%">
+<img src="./internature_04.webp"/> 
+</p>
+
 ### Expérience intéractive où le mouvement d'une sphère fait croître et transforme une nature numérique. À travers une esthétique abstraite, elle évoque une nature en utilisant des éléments de fragmentation et de particule crée ainsi une immersion en perpetuelle évolution. Dans le projet, en entrant dans la pièce, vous trouverez une ambiance sonore provenant de l'intérieur. Lorsque vous rentrez, une sphère posé sur un piédestal au centre du tunnel sera illuminé. En vous approchant de la sphère, le son devient plus perceptible. Vous êtes inviter à bouger la sphère illuminé. En la tournant, des projections de vignes grimpantes commencent à pousser sur les parois du tunnel suivant la direction de vos mouvements. Lorsque les parois seront entièrement couverte de vignes et de projections qui évoquent des fleurs en bouton, la lumière autour de la sphère va ensuite s'éteindre. Les parois deviennent intéractives et cela va inviter les interacteurs à toucher les fleurs et les échlors afin d'éparpiller les pétales au travers de l'espace. En arrêtant le mouvement, les vignes se rétractent et les sons s'eménuisent. Lorsque les vignes se sont tous retractés, vous avez alors la possibilité de recommencer à tourner la sphère ou de quitter le tunnel. Avec Internature, nous voulons explorer des questions universelles; "Pourquoi cherchons-nous à contrôler ce qui nous entoure?." et surtout, "Comment réagissons-nous face à l'impérmanance et l'imprévisibilité de nos actions?"
