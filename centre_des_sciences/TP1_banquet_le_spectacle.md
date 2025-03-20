@@ -3,7 +3,7 @@
 
 ****
 <p align="center" width="100%">
-<img src="./medias/moi.jpg" width= 440px height= 620px/> <img src="./medias/le_banquet.jpg" width= 440px height= 620px/> 
+<img src="./medias/moi.jpg"/> <img src="./medias/le_banquet.jpg"/> 
 </p>
 
 *Moi, à l'entrée du Banquet.*
