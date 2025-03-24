@@ -3,6 +3,12 @@
 
 ## Première position: 
 ### Luminatura
+****
+
+<p align="center" width="100%">
+<img src="./medias/luminatura_01.webp" width= 460px height= 620px/>
+</p>
+
 #### Luminatura est une installation intéractive fusionnant la nature et la technologie. Notre but est d'explorer la communication entre la nature et l'humain à travers la capacitance. Luminatura s'inspire de la terne captivante de "forest of resonating lamps one stroke" où chaque lumière intéragit avec son environnement créant une athmosphère magique. De plus, l'oeuvre "Pulse Room" de Rafael Luzano Hemmer enrichit notre concept en intégrant une dimension sonore réactive renforçant ainsi l'expérience immersive de Luminatura. Les choix d'ambiances sonore se concentre sur l'harmonie entre lumière et son créant ainsi une expérience immersive et poétique. Les sons naturels, tel que les bruits de la forêt et les murmures d'eau renforce la connexion avec la nature. Pour commencer, l'utilisateur va rentrer dans la pièce où il y aura trois plaques métalliques près de lui. En haut, il y aura les lanternes et les fleurs lumineuses crée de tissues qui seront suspendus. Lorsque l'utilisateur aura la chance de poser ses mains sur l'une des plaques métallique afin que les capteurs de capacitance détecte la peau et projette de cette manière une lumière bougera sur l'écran se situant derrière l'exposition. Si un deuxième utilisateur rejoint le premier, cela va crée des variations sonores et lumineuses. 
 ****
 
