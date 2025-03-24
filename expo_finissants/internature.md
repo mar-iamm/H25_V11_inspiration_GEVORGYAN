@@ -22,11 +22,13 @@
 
 ****
 
-#### Internature : Croquis
+## Internature : Croquis
 
 <p align="center" width="100%">
-<img src="./medias/croquis_internature.ai" width= 460px height= 620px/>
+<img src="./medias/croquis_internature.png" width= 460px height= 620px/>
 </p>
+
+#### Afin que ce soit plus clair, voici un croquis de l'exposition. 
  
 ****
 
