@@ -24,6 +24,10 @@
 
 #### Internature : Croquis
 
+<p align="center" width="100%">
+<img src="./medias/croquis_internature.jpg" width= 460px height= 620px/>
+</p>
+ 
 ****
 
 #### Internature : Conclusion
