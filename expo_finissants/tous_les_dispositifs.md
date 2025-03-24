@@ -3,14 +3,21 @@
 
 ## Première position: 
 ### Luminatura
-****
 
 <p align="center" width="100%">
 <img src="./medias/luminatura_01.webp" width= 460px height= 620px/>
 </p>
 
-#### Luminatura est une installation intéractive fusionnant la nature et la technologie. Notre but est d'explorer la communication entre la nature et l'humain à travers la capacitance. Luminatura s'inspire de la terne captivante de "forest of resonating lamps one stroke" où chaque lumière intéragit avec son environnement créant une athmosphère magique. De plus, l'oeuvre "Pulse Room" de Rafael Luzano Hemmer enrichit notre concept en intégrant une dimension sonore réactive renforçant ainsi l'expérience immersive de Luminatura. Les choix d'ambiances sonore se concentre sur l'harmonie entre lumière et son créant ainsi une expérience immersive et poétique. Les sons naturels, tel que les bruits de la forêt et les murmures d'eau renforce la connexion avec la nature. Pour commencer, l'utilisateur va rentrer dans la pièce où il y aura trois plaques métalliques près de lui. En haut, il y aura les lanternes et les fleurs lumineuses crée de tissues qui seront suspendus. Lorsque l'utilisateur aura la chance de poser ses mains sur l'une des plaques métallique afin que les capteurs de capacitance détecte la peau et projette de cette manière une lumière bougera sur l'écran se situant derrière l'exposition. Si un deuxième utilisateur rejoint le premier, cela va crée des variations sonores et lumineuses. 
+#### Luminatura est une installation interactive qui fusionne nature et technologie, explorant la communication entre l'humain et l'environnement à travers la capacitance. Elle à été crée par Audrey Dandurand, Camilia Bouatmani, Ihab Mouhajer, Justine Rousseau et Prethiah Rajaratnam, les élèves finissants de la technique d'intégration multimédia. Inspirée par "Forest of Resonating Lamps One Stroke" et "Pulse Room" de Rafael Lozano-Hemmer, l'œuvre crée une atmosphère magique avec des lanternes et des fleurs lumineuses suspendues, réagissant au toucher des utilisateurs. En touchant l'une des plaques métalliques, l'utilisateur active des capteurs de capacitance, déclenchant des lumières et sons en réponse. L'interaction entre plusieurs utilisateurs génère des variations sonores et lumineuses, renforçant l'expérience immersive. Les ambiances sonores naturelles, telles que les bruits de forêt et d'eau, accentuent la connexion avec la nature.
 ****
+
+### Luminatura : Plantation
+****
+
+### Afin qu'on comprenne plus en profondeur l'installation de l'oeuvre, voici les plantations realisés par l'équipe.
+
+
+
 
 ## Deuxième position: 
 ### Etheria
