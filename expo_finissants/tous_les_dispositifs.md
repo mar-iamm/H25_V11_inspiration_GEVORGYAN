@@ -16,3 +16,16 @@
 ## Troisième position: 
 ### Fuga
 #### Fuga est un projet générateur d'arbre qui va être personnalisé au son qui va être crée par l'interacteur. L'idée derrière ce projet est un groupe de scientifiques qui pour sauver la planète de l'industrialisation et de la mort de la vie vont crée une plante qui sera très sensible au fréquences, sons et vibrations. Le projet montre donc qu'il y a une balance a trouver entre la nature et la technologie. Chaque utilisateur va expérimenter des sons différents avec les outils qu'il y aura à disposition. Chaque arbre généré sera unique et va avoir des couleurs et des formes différentes. L'interacteur va devoir toucher plusieurs bouton du synthétiseur afin de générer ces mêmes arbres. Il y aura au dessus les écrans qui vont montrer la progressions des arbres qui vont venir en vie chacune de manière différentes.
+
+
+1. Titre des projets et créateurs
+
+2. Photo des installation en cours (ou finale) dans les studios
+
+3. Schéma de l'installation prévue (trouvé dans leur sites web)
+
+4. Ressenti pendant l’expérimentation
+
+5. 3 cours incontournables que nous pensons qui les ont aidés pour faire leur projets
+
+6. Technique ou composante technologique que nous connaissions pas avant de voir les expos (js pour ma part)
