@@ -25,7 +25,7 @@
 ## Internature : Croquis
 
 <p align="center" width="100%">
-<img src="./medias/croquis_internature.png" width= 960px height= 541px/>
+<img src="./medias/croquis_internature.png" width= 960px height= 540px/>
 </p>
 
 #### Afin que ce soit plus clair, voici un croquis de l'exposition. 
