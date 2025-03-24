@@ -17,7 +17,7 @@ Inspirée par "Forest of Resonating Lamps One Stroke" et "Pulse Room" de Rafael 
 ****
 
 <p align="center" width="100%">
-<img src="./medias/plantation_internature_01.jpg" width= 460px height= 620px/> <img src="./medias/plantation_internature_02.png" width= 460px height= 620px/>
+<img src="./medias/plantation_internature_01.jpg" width= 788px height= 557px/> <img src="./medias/plantation_internature_02.png" width= 788px height= 557px/>
 </p>
 
 #### *Afin qu'on comprenne plus en profondeur l'installation de l'oeuvre, voici les plantations realisés par l'équipe.*
