@@ -34,4 +34,6 @@
 
 #### Internature : Conclusion
 
+J'ai visité l'exposition Internature et j'ai été vraiment impressionné. Dès l'entrée, les parois du tunnel réagissent aux mouvements des visiteurs, projetant des vignes et des fleurs qui se développent sur les murs. C’est fascinant de voir l’espace changer en temps réel. L’aspect interactif est captivant : en touchant la balles rapidement, on déclenche des effets de lumière et de son qui crée une athmosphère incroyablement apaisante. L'ambiance, de son côté, va alimenter cet athmosphère et l'imersesion. L'utilisation des technologies est brillante et l'expérience est fluide. Ce que j'ai aimé le plus, c'est que les utilisateurs étaient invités à être littéralement à l'intérieur de l'exposition en elle-même. C’est une exposition originale qui mêle art et technologie de manière intelligente!
+
 ##### *Source: https://www.youtube.com/watch?v=pLxNPbXbVRE, https://tprangers.github.io/internature/#/*
