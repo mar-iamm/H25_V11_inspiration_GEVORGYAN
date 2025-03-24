@@ -8,13 +8,19 @@
 <img src="./medias/luminatura_01.webp" width= 460px height= 620px/>
 </p>
 
-#### Luminatura est une installation interactive qui fusionne nature et technologie, explorant la communication entre l'humain et l'environnement à travers la capacitance. Elle à été crée par Audrey Dandurand, Camilia Bouatmani, Ihab Mouhajer, Justine Rousseau et Prethiah Rajaratnam, les élèves finissants de la technique d'intégration multimédia. Inspirée par "Forest of Resonating Lamps One Stroke" et "Pulse Room" de Rafael Lozano-Hemmer, l'œuvre crée une atmosphère magique avec des lanternes et des fleurs lumineuses suspendues, réagissant au toucher des utilisateurs. En touchant l'une des plaques métalliques, l'utilisateur active des capteurs de capacitance, déclenchant des lumières et sons en réponse. L'interaction entre plusieurs utilisateurs génère des variations sonores et lumineuses, renforçant l'expérience immersive. Les ambiances sonores naturelles, telles que les bruits de forêt et d'eau, accentuent la connexion avec la nature.
+#### Luminatura est une installation interactive qui fusionne nature et technologie, explorant la communication entre l'humain et l'environnement à travers la capacitance. Elle à été crée par Audrey Dandurand, Camilia Bouatmani, Ihab Mouhajer, Justine Rousseau et Prethiah Rajaratnam, les élèves finissants de la technique d'intégration multimédia. 
+
+Inspirée par "Forest of Resonating Lamps One Stroke" et "Pulse Room" de Rafael Lozano-Hemmer, l'œuvre crée une atmosphère magique avec des lanternes et des fleurs lumineuses suspendues, réagissant au toucher des utilisateurs. En touchant l'une des plaques métalliques, l'utilisateur active des capteurs de capacitance, déclenchant des lumières et sons en réponse. L'interaction entre plusieurs utilisateurs génère des variations sonores et lumineuses, renforçant l'expérience immersive. Les ambiances sonores naturelles, telles que les bruits de forêt et d'eau, accentuent la connexion avec la nature.
 ****
 
 ### Luminatura : Plantation
 ****
 
-### Afin qu'on comprenne plus en profondeur l'installation de l'oeuvre, voici les plantations realisés par l'équipe.
+<p align="center" width="100%">
+<img src="./medias/plantation_internature_01.jpg" width= 460px height= 620px/> <img src="./medias/plantation_internature_02.png" width= 460px height= 620px/>
+</p>
+
+#### *Afin qu'on comprenne plus en profondeur l'installation de l'oeuvre, voici les plantations realisés par l'équipe.*
 
 
 
