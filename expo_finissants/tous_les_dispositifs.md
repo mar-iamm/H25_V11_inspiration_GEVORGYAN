@@ -82,6 +82,7 @@
 </p>
 
 #### L'exposition Fuga à été crée par Abdel Ali Djeral, Daniel Dezemma, Matis Labelle, Tristan Khadka et Yavuz-Selim Gucluer, des finissants de la technique d'intégration multimédia. Fuga est un projet interactif où l'utilisateur génère des arbres personnalisés en fonction des actions de l'utilisateur. L'histoire se base sur des scientifiques qui, pour sauver la planète, développent une plante sensible aux fréquences, sons et vibrations. Le projet illustre l'équilibre entre la nature et la technologie. Chaque utilisateur expérimente avec un synthétiseur pour créer des arbres uniques, dont les couleurs et formes varient. Des écrans affichent la progression des arbres qui prennent vie de manière différente à chaque interaction.
+****
 
 ### Fuga : Plantation
 
@@ -95,6 +96,7 @@
 ### Fuga : Vécu Sensoriel
 
 #### L'œuvre Fuga m'a beaucoup intéressé, car elle offre une belle fusion entre la nature et la technologie. L'idée de créer des arbres uniques en fonction des actions de l'utilisateur est originale et permet de s'immerger dans un processus créatif et immersif. C'est fascinant de voir comment chaque interaction avec le synthétiseur produit des résultats différents, ce qui rend l'expérience unique à chaque fois.
+****
 
 ### Fuga : Les Coulisses
 
