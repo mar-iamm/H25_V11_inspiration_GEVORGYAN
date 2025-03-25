@@ -15,7 +15,6 @@
 ****
 
 ### Luminatura : Plantation
-****
 
 <p align="center" width="100%">
 <img src="./medias/plantation_internature_01.jpg" width= 788px height= 557px/> <img src="./medias/plantation_internature_02.png" width= 788px height= 557px/>
@@ -50,7 +49,6 @@
 #### Etheria est une installation interactive crée par Joshua Gonzalez-Berrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx et Maik Hamel, des finissants de la technique intégration multimédia. Etheria est un jeu en pixel art où les joueurs défendent la pierre d'Étheria contre des vagues d'ennemis. Chaque joueur place des figures pour protéger le cristal et peut les repositionner durant le jeu. À chaque manche, la difficulté augmente et des power-ups apparaissent. L'objectif est de collaborer pour éliminer les ennemis et empêcher la destruction du cristal. Des indicateurs donnent des infos clés sur la direction des ennemis et l'état du jeu.
 
 ### Etheria : Plantation
-****
 
 <p align="center" width="100%">
 <img src="./medias/plantation_etheria_01.jpg" width= 788px height= 557px/> <img src="./medias/plantation_etheria_02.jpg" width= 788px height= 557px/>
@@ -60,13 +58,11 @@
 ****
 
 ### Etheria : Vécu Sensoriel
-****
 
 #### L'exposition de Etheria m'a vraiment marqué. Le concept du jeu est super original et l'ambiance en art pixel est très intéressante. Ce qui m'a plu, c'est la coopération entre les joueurs, qui rend l'expérience plus amusante et excitante. La difficulté augmente au fur et à mesure des vagues d'ennemis, et les pouvoirs qui apparaissent nous forcent à changer constamment notre stratégie. Ça rend chaque partie captivante et pleine de surprises. En gros, l'exposition montre un jeu très agréable, avec un bon mélange de stratégie et d'action, qui plairait sûrement à ceux qui aiment jouer en groupe.
 ****
 
 ### Etheria : Les Coulisses
-****
 
 #### Pour réaliser ce projet, les cours essentiels seraient ceux sur le développement web et la programmation, car le jeu nécessite une bonne maîtrise du codage. Les d'illustration sont aussi importants pour créer les dessins graphiques. Enfin, le cours de réalité mixte est utile pour intégrer des éléments interactifs.
 
@@ -87,7 +83,6 @@
 #### L'exposition Fuga à été crée par Abdel Ali Djeral, Daniel Dezemma, Matis Labelle, Tristan Khadka et Yavuz-Selim Gucluer, des finissants de la technique d'intégration multimédia. Fuga est un projet interactif où l'utilisateur génère des arbres personnalisés en fonction des actions de l'utilisateur. L'histoire se base sur des scientifiques qui, pour sauver la planète, développent une plante sensible aux fréquences, sons et vibrations. Le projet illustre l'équilibre entre la nature et la technologie. Chaque utilisateur expérimente avec un synthétiseur pour créer des arbres uniques, dont les couleurs et formes varient. Des écrans affichent la progression des arbres qui prennent vie de manière différente à chaque interaction.
 
 ### Fuga : Plantation
-****
 
 <p align="center" width="100%">
 <img src="./medias/plantation_fuga_01.png" width= 788px height= 557px/> <img src="./medias/plantation_fuga_02.png" width= 788px height= 557px/> <img src="./medias/plantation_fuga_03.png" width= 788px height= 557px/>
@@ -97,12 +92,10 @@
 ****
 
 ### Fuga : Vécu Sensoriel
-****
 
 #### L'œuvre Fuga m'a beaucoup intéressé, car elle offre une belle fusion entre la nature et la technologie. L'idée de créer des arbres uniques en fonction des actions de l'utilisateur est originale et permet de s'immerger dans un processus créatif et immersif. C'est fascinant de voir comment chaque interaction avec le synthétiseur produit des résultats différents, ce qui rend l'expérience unique à chaque fois.
 
 ### Fuga : Les Coulisses
-****
 
 #### Pour réaliser ce projet, les cours essentiels seraient ceux sur le développement web et la programmation, car le générateur d'arbres nécessite une bonne maîtrise du codage pour que les sons créés influencent correctement les arbres générés. Les cours d'illustration sont également importants pour créer les visuels uniques des arbres et l'interface. Enfin, le cours de modélisation 3D est l'élément le plus essentiel afin de modéliser les arbres.
 
