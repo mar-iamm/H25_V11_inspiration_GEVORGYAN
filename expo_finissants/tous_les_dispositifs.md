@@ -3,6 +3,7 @@
 
 ## Première position: 
 ### Luminatura
+****
 
 <p align="center" width="100%">
 <img src="./medias/luminatura_01.webp" width= 460px height= 620px/>
@@ -39,6 +40,11 @@
 
 ## Deuxième position: 
 ### Etheria
+****
+
+<p align="center" width="100%">
+<img src="./medias/etheria_01.webp" width= 460px height= 620px/>
+</p>
 
 #### Etheria est une installation interactive crée par Joshua Gonzalez-Berrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx et Maik Hamel, des finissants de la technique intégration multimédia. Etheria est un jeu en pixel art où les joueurs défendent la pierre d'Étheria contre des vagues d'ennemis. Chaque joueur place des figures pour protéger le cristal et peut les repositionner durant le jeu. À chaque manche, la difficulté augmente et des power-ups apparaissent. L'objectif est de collaborer pour éliminer les ennemis et empêcher la destruction du cristal. Des indicateurs donnent des infos clés sur la direction des ennemis et l'état du jeu.
 
@@ -54,17 +60,16 @@
 ### Etheria : Vécu Sensoriel
 ****
 
-<p align="center" width="100%">
-<img src="./medias/etheria_01.webp" width= 460px height= 620px/>
-</p>
-
 #### L'exposition de Etheria m'a vraiment marqué. Le concept du jeu est super original et l'ambiance en art pixel est très intéressante. Ce qui m'a plu, c'est la coopération entre les joueurs, qui rend l'expérience plus amusante et excitante. La difficulté augmente au fur et à mesure des vagues d'ennemis, et les pouvoirs qui apparaissent nous forcent à changer constamment notre stratégie. Ça rend chaque partie captivante et pleine de surprises. En gros, l'exposition montre un jeu très agréable, avec un bon mélange de stratégie et d'action, qui plairait sûrement à ceux qui aiment jouer en groupe.
 
 ### Etheria : Les Coulisses
 ****
 
-#### L'installation consiste en une table au centre, sur laquelle la projection du jeu sera affichée. En plus du projecteur en hauteur, une webcam sera utilisée comme caméra pour capturer les symboles ArUco, la technologie qui nous permettra d'intégrer le pion dans le monde fantastique d'Etheria. De plus, des haut-parleurs seront placés autour afin de permettre à la musique et aux effects sonores de jouer leur rôle dans l'immersion de l'interacteur.
-****
+#### Pour réaliser ce projet, les cours essentiels seraient ceux sur le développement web et la programmation, car le jeu nécessite une bonne maîtrise du codage. Les d'illustration sont aussi importants pour créer les dessins graphiques. Enfin, le cours de réalité mixte est utile pour intégrer des éléments interactifs.
+
+#### Concernant les technologies, je ne découvre pas vraiment de nouvelles choses, mais je maîtrise moins JavaScript encore une fois, souvent utilisé pour les interactions dynamiques. Les technologies de réalité mixte me semblent encore floues.
+
+##### *Source: https://ethereal-creators.github.io/Etheria/#/10_equipe/, https://www.youtube.com/watch?v=nwJlMtzI-8g*
 
 ## Troisième position: 
 ### Fuga
