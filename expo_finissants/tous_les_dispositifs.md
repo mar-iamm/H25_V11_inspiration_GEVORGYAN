@@ -56,11 +56,13 @@
 </p>
 
 ##### *Afin qu'on comprenne plus en profondeur l'installation de l'oeuvre, voici les plantations realisés par l'équipe.*
+****
 
 ### Etheria : Vécu Sensoriel
 ****
 
 #### L'exposition de Etheria m'a vraiment marqué. Le concept du jeu est super original et l'ambiance en art pixel est très intéressante. Ce qui m'a plu, c'est la coopération entre les joueurs, qui rend l'expérience plus amusante et excitante. La difficulté augmente au fur et à mesure des vagues d'ennemis, et les pouvoirs qui apparaissent nous forcent à changer constamment notre stratégie. Ça rend chaque partie captivante et pleine de surprises. En gros, l'exposition montre un jeu très agréable, avec un bon mélange de stratégie et d'action, qui plairait sûrement à ceux qui aiment jouer en groupe.
+****
 
 ### Etheria : Les Coulisses
 ****
@@ -75,28 +77,32 @@
 ### Fuga
 ****
 
+<p align="center" width="100%">
+<img src="./medias/fuga_01.webp" width= 460px height= 620px/>
+</p>
 
-
-#### Fuga est un projet générateur d'arbre qui va être personnalisé au son qui va être crée par l'interacteur. L'idée derrière ce projet est un groupe de scientifiques qui pour sauver la planète de l'industrialisation et de la mort de la vie vont crée une plante qui sera très sensible au fréquences, sons et vibrations. Le projet montre donc qu'il y a une balance a trouver entre la nature et la technologie. Chaque utilisateur va expérimenter des sons différents avec les outils qu'il y aura à disposition. Chaque arbre généré sera unique et va avoir des couleurs et des formes différentes. L'interacteur va devoir toucher plusieurs bouton du synthétiseur afin de générer ces mêmes arbres. Il y aura au dessus les écrans qui vont montrer la progressions des arbres qui vont venir en vie chacune de manière différentes.
+#### L'exposition Fuga à été crée par Abdel Ali Djeral, Daniel Dezemma, Matis Labelle, Tristan Khadka et Yavuz-Selim Gucluer, des finissants de la technique d'intégration multimédia. Fuga est un projet interactif où l'utilisateur génère des arbres personnalisés en fonction des actions de l'utilisateur. L'histoire se base sur des scientifiques qui, pour sauver la planète, développent une plante sensible aux fréquences, sons et vibrations. Le projet illustre l'équilibre entre la nature et la technologie. Chaque utilisateur expérimente avec un synthétiseur pour créer des arbres uniques, dont les couleurs et formes varient. Des écrans affichent la progression des arbres qui prennent vie de manière différente à chaque interaction.
 
 ### Fuga : Plantation
 ****
 
-### Fuga : Vécu sensoriel
+<p align="center" width="100%">
+<img src="./medias/plantation_fuga_01.png" width= 788px height= 557px/> <img src="./medias/plantation_fuga_02.png" width= 788px height= 557px/> <img src="./medias/plantation_fuga_03.png" width= 788px height= 557px/>
+</p>
+
+##### *Afin qu'on comprenne plus en profondeur l'installation de l'oeuvre, voici les plantations realisés par l'équipe.*
 ****
+
+### Fuga : Vécu Sensoriel
+****
+
+#### L'œuvre Fuga m'a beaucoup intéressé, car elle offre une belle fusion entre la nature et la technologie. L'idée de créer des arbres uniques en fonction des actions de l'utilisateur est originale et permet de s'immerger dans un processus créatif et immersif. C'est fascinant de voir comment chaque interaction avec le synthétiseur produit des résultats différents, ce qui rend l'expérience unique à chaque fois.
 
 ### Fuga : Les Coulisses
 ****
 
+#### Pour réaliser ce projet, les cours essentiels seraient ceux sur le développement web et la programmation, car le générateur d'arbres nécessite une bonne maîtrise du codage pour que les sons créés influencent correctement les arbres générés. Les cours d'illustration sont également importants pour créer les visuels uniques des arbres et l'interface. Enfin, le cours de modélisation 3D est l'élément le plus essentiel afin de modéliser les arbres.
 
-1. Titre des projets et créateurs
+#### Concernant les technologies, je ne découvre pas de grandes nouveautés, mais je maîtrise moins JavaScript, encore une fois, et probablement la modélisation 3D.
 
-2. Photo des installation en cours (ou finale) dans les studios
-
-3. Schéma de l'installation prévue (trouvé dans leur sites web)
-
-4. Ressenti pendant l’expérimentation
-
-5. 3 cours incontournables que nous pensons qui les ont aidés pour faire leur projets
-
-6. Technique ou composante technologique que nous connaissions pas avant de voir les expos (js pour ma part)
+##### *Source: https://escapism-fuga.github.io/Fuga/#/, https://www.youtube.com/watch?v=rhUf4A05L-w*
