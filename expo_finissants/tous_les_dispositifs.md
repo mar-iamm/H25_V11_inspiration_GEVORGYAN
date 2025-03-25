@@ -20,7 +20,7 @@
 <img src="./medias/plantation_internature_01.jpg" width= 788px height= 557px/> <img src="./medias/plantation_internature_02.png" width= 788px height= 557px/>
 </p>
 
-#### *Afin qu'on comprenne plus en profondeur l'installation de l'oeuvre, voici les plantations realisés par l'équipe.*
+##### *Afin qu'on comprenne plus en profondeur l'installation de l'oeuvre, voici les plantations realisés par l'équipe.*
 ****
 
 ### Luminatura : Vécu sensoriel
@@ -40,15 +40,25 @@
 ## Deuxième position: 
 ### Etheria
 
-#### Etheria est un projet interactif en pixel art qui consiste à utiliser des figures/pions pour défendre la pierre d'Étheria contre des vagues d'ennemis. Il s'agit d'un jeu en plusieurs manches où les joueurs incarnent des figure chargées de la protection de la pierre. Au fil des vagues, les participants pourront obtenir des power-ups et feront fae à une difficulté croissante. L'objectif ultime du projet est de créer un sentiment de camaraderie, d'excitation et de collaboration entre les joueurs. Ensuite, le game loop. Au début de chaque prtie, les joueurs placent des figures sur la table pour défendre le crystal. Une fois le jeu lancé, ils peuvent repositionner leurs figures pour optimiser leur stratégie. Une manche se termine lorsque suffisemment d'ennemis seront éliminés, déclanchant une pause avant la suivante. Le cycle se répète jusqu'a la destruction du crystal. Des pouvoirs apparaîteront au fil du jeu, et la difficulté augmentera progressivement. Des indicateurs afficheront des informations clés, comme la direction des ennemis, l'état du jeu et le nombre d'ennemis restant.
+#### Etheria est une installation interactive crée par Joshua Gonzalez-Berrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx et Maik Hamel, des finissants de la technique intégration multimédia. Etheria est un jeu en pixel art où les joueurs défendent la pierre d'Étheria contre des vagues d'ennemis. Chaque joueur place des figures pour protéger le cristal et peut les repositionner durant le jeu. À chaque manche, la difficulté augmente et des power-ups apparaissent. L'objectif est de collaborer pour éliminer les ennemis et empêcher la destruction du cristal. Des indicateurs donnent des infos clés sur la direction des ennemis et l'état du jeu.
 
 ### Etheria : Plantation
 ****
 
+<p align="center" width="100%">
+<img src="./medias/plantation_etheria_01.jpg" width= 788px height= 557px/> <img src="./medias/plantation_etheria_02.jpg" width= 788px height= 557px/>
+</p>
 
+##### *Afin qu'on comprenne plus en profondeur l'installation de l'oeuvre, voici les plantations realisés par l'équipe.*
 
-### Etheria : Vécu sensoriel
+### Etheria : Vécu Sensoriel
 ****
+
+<p align="center" width="100%">
+<img src="./medias/etheria_01.webp" width= 460px height= 620px/>
+</p>
+
+#### L'exposition de Etheria m'a vraiment marqué. Le concept du jeu est super original et l'ambiance en art pixel est très intéressante. Ce qui m'a plu, c'est la coopération entre les joueurs, qui rend l'expérience plus amusante et excitante. La difficulté augmente au fur et à mesure des vagues d'ennemis, et les pouvoirs qui apparaissent nous forcent à changer constamment notre stratégie. Ça rend chaque partie captivante et pleine de surprises. En gros, l'exposition montre un jeu très agréable, avec un bon mélange de stratégie et d'action, qui plairait sûrement à ceux qui aiment jouer en groupe.
 
 ### Etheria : Les Coulisses
 ****
