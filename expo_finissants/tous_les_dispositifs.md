@@ -35,6 +35,8 @@
 #### Concernant la technologie que je ne connaissais pas avant de voir l'exposition, il y en a pas vraiment. Si il y en a un que je maîtrise le moins, ce serait le JavaScript. Sinon, en voyant la grille de cours de la technique, je dirais les technologies de la réalité mixte serait le plus flou à mes yeux. 
 ****
 
+##### *Source: https://ethereal-creators.github.io/Etheria/#/, https://www.youtube.com/watch?v=nwJlMtzI-8g*
+
 ## Deuxième position: 
 ### Etheria
 
@@ -43,10 +45,12 @@
 ### Etheria : Plantation
 ****
 
+
+
 ### Etheria : Vécu sensoriel
 ****
 
-### Etheria : Les coulisses
+### Etheria : Les Coulisses
 ****
 
 #### L'installation consiste en une table au centre, sur laquelle la projection du jeu sera affichée. En plus du projecteur en hauteur, une webcam sera utilisée comme caméra pour capturer les symboles ArUco, la technologie qui nous permettra d'intégrer le pion dans le monde fantastique d'Etheria. De plus, des haut-parleurs seront placés autour afin de permettre à la musique et aux effects sonores de jouer leur rôle dans l'immersion de l'interacteur.
@@ -62,7 +66,7 @@
 ### Fuga : Vécu sensoriel
 ****
 
-### Fuga : Les coulisses
+### Fuga : Les Coulisses
 ****
 
 
