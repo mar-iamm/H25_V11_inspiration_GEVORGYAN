@@ -47,6 +47,7 @@
 </p>
 
 #### Etheria est une installation interactive crée par Joshua Gonzalez-Berrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx et Maik Hamel, des finissants de la technique intégration multimédia. Etheria est un jeu en pixel art où les joueurs défendent la pierre d'Étheria contre des vagues d'ennemis. Chaque joueur place des figures pour protéger le cristal et peut les repositionner durant le jeu. À chaque manche, la difficulté augmente et des power-ups apparaissent. L'objectif est de collaborer pour éliminer les ennemis et empêcher la destruction du cristal. Des indicateurs donnent des infos clés sur la direction des ennemis et l'état du jeu.
+****
 
 ### Etheria : Plantation
 
