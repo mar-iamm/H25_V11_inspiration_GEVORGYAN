@@ -37,6 +37,7 @@
 ****
 
 ##### *Source: https://ethereal-creators.github.io/Etheria/#/, https://www.youtube.com/watch?v=nwJlMtzI-8g*
+****
 
 ## Deuxième position: 
 ### Etheria
@@ -70,8 +71,10 @@
 #### Pour réaliser ce projet, les cours essentiels seraient ceux sur le développement web et la programmation, car le jeu nécessite une bonne maîtrise du codage. Les d'illustration sont aussi importants pour créer les dessins graphiques. Enfin, le cours de réalité mixte est utile pour intégrer des éléments interactifs.
 
 #### Concernant les technologies, je ne découvre pas vraiment de nouvelles choses, mais je maîtrise moins JavaScript encore une fois, souvent utilisé pour les interactions dynamiques. Les technologies de réalité mixte me semblent encore floues.
+****
 
 ##### *Source: https://ethereal-creators.github.io/Etheria/#/10_equipe/, https://www.youtube.com/watch?v=nwJlMtzI-8g*
+****
 
 ## Troisième position: 
 ### Fuga
@@ -104,5 +107,6 @@
 #### Pour réaliser ce projet, les cours essentiels seraient ceux sur le développement web et la programmation, car le générateur d'arbres nécessite une bonne maîtrise du codage pour que les sons créés influencent correctement les arbres générés. Les cours d'illustration sont également importants pour créer les visuels uniques des arbres et l'interface. Enfin, le cours de modélisation 3D est l'élément le plus essentiel afin de modéliser les arbres.
 
 #### Concernant les technologies, je ne découvre pas de grandes nouveautés, mais je maîtrise moins JavaScript, encore une fois, et probablement la modélisation 3D.
+****
 
 ##### *Source: https://escapism-fuga.github.io/Fuga/#/, https://www.youtube.com/watch?v=rhUf4A05L-w*
