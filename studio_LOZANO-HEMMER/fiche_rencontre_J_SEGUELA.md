@@ -1,7 +1,7 @@
 # La conférence de Rafael Lozano-Hemmer 
+****
 
 ## Qui est Jade Séguéla ?
-****
 
 <img src="./medias/jade_seguela.jpg"/>
 
@@ -12,7 +12,6 @@
 ****
 
 ## Qui est Rafael Lazano-Hemmer ?
-****
 
 <img src="./medias/rafael_lozano_hemmer.jpg"/>
 
@@ -23,7 +22,6 @@
 ****
 
 ## La conférence
-****
 
 <img src="./medias/sphere_packing_bach.jpg"/>
 
@@ -36,11 +34,10 @@
 ****
 
 ## Mon opinion 
-****
 
 #### La conférence à laquelle j'ai assisté a été très intéressante, offrant un aperçu du processus créatif des œuvres interactives et des valeurs des artistes comme Rafael Lozano-Hemmer. Jade Séguéla a bien expliqué l'importance de l'interaction avec le public et l'utilisation de nouvelles technologies pour créer des expériences immersives.
 
-Parmi les œuvres présentées, Sphere Packing: Bach m'a beaucoup marqué. La sphère en bois, qui joue des milliers de compositions quand on entre à l'intérieur, crée une expérience unique. L'œuvre mélange de la musique structurée avec des sons aléatoires, ce qui crée un contraste fascinant entre ordre et chaos. Ce côté chaotique, mais contrôlé, m'a vraiment captivé.
+#### Parmi les œuvres présentées, Sphere Packing: Bach m'a beaucoup marqué. La sphère en bois, qui joue des milliers de compositions quand on entre à l'intérieur, crée une expérience unique. L'œuvre mélange de la musique structurée avec des sons aléatoires, ce qui crée un contraste fascinant entre ordre et chaos. Ce côté chaotique, mais contrôlé, m'a vraiment captivé.
 
 
 
