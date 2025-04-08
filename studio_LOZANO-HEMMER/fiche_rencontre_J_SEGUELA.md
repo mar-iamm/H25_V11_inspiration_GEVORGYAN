@@ -24,9 +24,13 @@
 
 ## La conférence
 
-Lors de la conférence, Mademoiselle Séguéla a présenté sa biographie ainsi que celle de l'artiste Rafael Lozano-Hemmer. Elle a expliqué le processus créatif derrière ses œuvres, en mettant en avant les idées originales et audacieuses de l'artiste. Elle a aussi parlé des valeurs qui guident son travail, comme la participation des employés, l'interactivité et la rencontre entre technologie et art. Cette présentation nous a permis de mieux comprendre l’approche unique de Lozano-Hemmer, qui mêle art, science et technologies pour créer des expériences immersives.
+<img src="./medias/sphere_packing_bach.jpg"/>
 
-De plus, Jade nous a expliqué le processus complexe et collaboratif derrière la création et l’exposition d’œuvres interactives. Elle a également présenté quatre œuvres importantes : Cloud Display, où un mot prononcé apparaît sous forme de fumée ; Binocular Tension, une installation où des yeux suivent les mouvements des utilisateurs ; Shadow Hunter, un globe terrestre qui reflète les ombres des passants et diffuse la radio d’un pays en fonction de l’emplacement de l'ombre ; et enfin Sphere Packing: Bach, une sphère en bois qui joue des milliers de compositions lorsque l’utilisateur entre à l’intérieur.
+###### *Source de l'image: https://www.lozano-hemmer.com/sphere_packing_bach.php*
+
+### Lors de la conférence, Mademoiselle Séguéla a présenté sa biographie ainsi que celle de l'artiste Rafael Lozano-Hemmer. Elle a expliqué le processus créatif derrière ses œuvres, en mettant en avant les idées originales et audacieuses de l'artiste. Elle a aussi parlé des valeurs qui guident son travail, comme la participation des employés, l'interactivité et la rencontre entre technologie et art. Cette présentation nous a permis de mieux comprendre l’approche unique de Lozano-Hemmer, qui mêle art, science et technologies pour créer des expériences immersives.
+
+### De plus, Jade nous a expliqué le processus complexe et collaboratif derrière la création et l’exposition d’œuvres interactives. Elle a également présenté quatre œuvres importantes : Cloud Display, où un mot prononcé apparaît sous forme de fumée ; Binocular Tension, une installation où des yeux suivent les mouvements des utilisateurs ; Shadow Hunter, un globe terrestre qui reflète les ombres des passants et diffuse la radio d’un pays en fonction de l’emplacement de l'ombre ; et enfin Sphere Packing: Bach, une sphère en bois qui joue des milliers de compositions lorsque l’utilisateur entre à l’intérieur.
 
 
 
