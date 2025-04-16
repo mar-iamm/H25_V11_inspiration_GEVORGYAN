@@ -33,7 +33,7 @@
 *** 
 
 <p align="center" width="100%">
-<img src=""/>
+<img src="./medias/croquis_ravel_ravel.ai"/>
 </p>
 
 ####  *Voici également un croquis de l'exposition, afin que vous puissez mieux comprendre l'environnement.*
