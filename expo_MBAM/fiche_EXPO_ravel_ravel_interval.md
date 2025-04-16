@@ -28,7 +28,7 @@
 
 #### L’installation montre deux vidéos projetées en même temps, où deux pianistes jouent le Concerto pour la main gauche de Ravel. Leurs interprétations, enregistrées séparément, sont légèrement décalées, créant un effet d’écho et de décalage. Le son est spatialisé, ce qui plonge le spectateur dans une expérience immersive, où il perçoit les variations de rythme et d’intensité comme s’il était au centre de la musique. L’œuvre explore autant la musique que notre perception du temps, de l’écoute et de la répétition.
 
-### *Voici une vidéo qui présente bien l'oeuvre: https://youtube.com/shorts/4jYAy05xEdI*
+##### *Voici une vidéo qui présente bien l'oeuvre: https://youtube.com/shorts/4jYAy05xEdI*
 
 *** 
 
