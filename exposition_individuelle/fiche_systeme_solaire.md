@@ -1,21 +1,21 @@
-# TRAVAIL 3: VISITE ET EXPÉRIENCE D'UNE EXPOSITION INDIVIDUELLE AU COSMODÔME
+# TRAVAIL 3: VISITE ET EXPÉRIENCE D'UNE EXPOSITION INDIVIDUELLE AU COSMODÔME, LE SYSTÈME SOLAIRE
 
 ****
 <p align="center" width="100%">
-<img src="./medias/cosmodome_moi.webp" width= 460px height= 620px/> 
+<img src="./medias/cosmodome_moi.webp" width= 460px height= 620px/> <img src="./medias/cosmodome_systeme_solaire.webp" width= 460px height= 620px/> 
 </p>
 
 *Moi, devant l'oeuvre des planètes au Cosmodôme.*
 
 ***
-## Ravel Ravel Interval 
+## Le Système Solaire 
 
 <p align="center" width="100%">
   <img src="./medias/ravel_credits.webp" width= 440px height= 620px/> <img src="./medias/ravel_credits_2.webp" width= 440px height= 620px/>
 </p>
 
-#### Le MBAM présente pour la première fois au Canada, dans son espace du Carré d’art contemporain, une installation vidéo immersive de l’artiste franco-albanais Anri Sala, reconnu à l’international. L’œuvre, intitulée Ravel Ravel Interval (2017), une exposition permanante, est une version revisitée de Ravel Ravel (2013), que l’artiste avait présentée à la 55e Biennale de Venise, alors qu’il représentait la France.
-
+#### LEe   
+ 
 ***
 
 <p align="center" width="100%">
