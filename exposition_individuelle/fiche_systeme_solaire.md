@@ -7,7 +7,7 @@
 
 *Moi, devant l'oeuvre des planètes au Cosmodôme.*
 
-***
+***¸
 ## Le Système Solaire 
 
 <p align="center" width="100%">
