@@ -24,7 +24,7 @@
 
 #### L’exposition se tient dans une salle sombre et immersive, où les planètes du système solaire sont suspendues au plafond, créant l’illusion de flotter dans l’espace. Chaque planète, illuminée et détaillée, attire le regard.Les visiteurs parcourent les stands alignés le long des murs, chacun offrant des informations ou des interactions liées à une planète. L’ambiance mêle lumières tamisées, sons et textures, offrant une expérience à la fois éducative et sensorielle, entre science et art.
 
-<img src="./medias/cosmodome_credits_01" width= 440px height= 620px/>
+<img src="./medias/cosmodome_credits_01.webp" width= 440px height= 620px/>
 
 *Voici également les crédits du dispositif*
 
