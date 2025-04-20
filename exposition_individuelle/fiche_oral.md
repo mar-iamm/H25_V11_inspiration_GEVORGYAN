@@ -4,9 +4,9 @@
 
 ### Aujourd'hui, je vais vous présenter l'exposition permanente « Le Système Solaire » du Cosmodôme de Laval. Cette exposition nous plonge dans l'univers de l'espace et de l'astronautique. Je vais vous décrire l'œuvre, partager mon expérience lors de la visite, donner mon avis personnel et faire des liens avec d'autres expositions similaires.
 
-## DÉVELOPPEMENT
-
 ***
+
+## DÉVELOPPEMENT
 
 ### 1. Présentation détaillée de l'œuvre
 #### L'exposition est située dans la partie musée du Cosmodôme, accessible un peu plus loin de l'entrée. Elle présente une maquette du système solaire, avec des planètes suspendues au plafond. Chaque planète est éclairée de l'intérieur, ce qui crée un effet lumineux réaliste. Autour de la salle, il y a des stands interactifs où l'on peut en apprendre plus sur chaque planète, intéragir physiquement avec, écouter des sons ou voir des vidéos. L'ambiance est immersive, avec des lumières tamisées et des sons qui rappellent l'espace.
