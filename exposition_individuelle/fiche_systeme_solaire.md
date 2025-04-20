@@ -28,7 +28,7 @@
 <img src="./medias/cosmodome_credits_01.webp" width= 440px height= 620px/>
 </p>
   
-*Voici également les crédits du dispositif*
+##### *Voici également les crédits du dispositif*
 </p>
 
 *** 
@@ -37,7 +37,7 @@
 <img src="./medias/croquis_cosmodome.svg" width= 440px height= 620px/>
 </p>
 
-####  *Voici également un croquis de l'exposition, afin que vous puissez mieux comprendre l'environnement.*
+#####  *Voici également un croquis de l'exposition, afin que vous puissez mieux comprendre l'environnement.*
 ***
 
 ### Le Système Solaire : Les Coulisses Techniques
@@ -50,7 +50,7 @@
 <img src="./medias/cosmodome_oeuvre_jupiter_dispositif.webp" width= 440px height= 620px/> <img src="./medias/cosmodome_oeuvre_neptune_dispositif.webp" width= 440px height= 620px/> <img src="./medias/cosmodome_dispositifs_lumiere.webp" width= 440px height= 620px/>
 </p>
 
-*Les dispositifs de l'oeuvre*
+##### *Les dispositifs de l'oeuvre*
 
 ***
 ### Le Système Solaire : Conclusion 
