@@ -1,7 +1,5 @@
 ## INTRODUCTION 
 
-***
-
 ### Aujourd'hui, je vais vous présenter l'exposition permanente « Le Système Solaire » du Cosmodôme de Laval. Cette exposition nous plonge dans l'univers de l'espace et de l'astronautique. Je vais vous décrire l'œuvre, partager mon expérience lors de la visite, donner mon avis personnel et faire des liens avec d'autres expositions similaires.
 
 ***
