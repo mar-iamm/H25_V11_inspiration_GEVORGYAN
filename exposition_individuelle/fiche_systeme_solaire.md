@@ -26,7 +26,9 @@
 
 <img src="./medias/cosmodome_credits_01.webp" width= 440px height= 620px/>
 
+<p align="center" width="100%">
 *Voici également les crédits du dispositif*
+</p>
 
 *** 
 
